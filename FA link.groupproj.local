@@ -1,0 +1,10 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<BorlandProject>
+	<Transactions>
+    <Transaction>1899-12-30 00:00:00.000.317,D:\m33\322\ProjectGroup1.groupproj=D:\m33\322\FA link.groupproj</Transaction>
+    <Transaction>1899-12-30 00:00:00.000.626,D:\我的文档\Embarcadero\Studio\Projects\ProjectGroup1.groupproj=D:\m33\322\ProjectGroup1.groupproj</Transaction>
+  </Transactions>
+	<Default.Personality>
+		<Projects ActiveProject="D:\m33\366000\FAclient V20\HG.dproj"/>
+	</Default.Personality>
+</BorlandProject>
